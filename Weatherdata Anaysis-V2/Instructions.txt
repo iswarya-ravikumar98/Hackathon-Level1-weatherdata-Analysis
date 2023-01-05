@@ -1,0 +1,22 @@
+Hi User,
+
+This is to give some guidelines to run code.
+
+* The code having usage of below libraries.
+	-python 
+	-pandas
+	-matplotlib
+	If system asks you to download any other libraries to run please install simply(If I missed).
+
+* The code can be run from local system like in command prompt or IDLE system file or any python software(like Jupyter).
+  I have attached the sample code from Jupyter notebook environment.
+
+
+*The Excel file for dataset is attached and you can give the file path in the code to run.
+
+*The sample code and output is attached in the word file for your reference and to give you an overview.
+
+*The code will ask you to enter any location in the list and based on the location
+ the average of the all the years(here 22 years given) are calculated monthwise and charts will be created.
+
+please let me know if you feel something is not on track.
